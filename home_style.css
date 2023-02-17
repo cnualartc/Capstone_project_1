@@ -45,9 +45,7 @@
   font-weight: 900;
   width: 100%;
   -webkit-background-clip: text;
-  background-clip: text;
   background-image: url(./images/header/text_background.webp);
-  /* background-size: cover; */
   background-position: initial;
   color: transparent;
 }
@@ -126,7 +124,6 @@ h1 p {
 
 .program-category-description p {
   color: #d3d3d3;
-  margin-bottom: 0;
   padding-left: 10px;
   font-size: 1.2em;
   margin: 20px 0;
@@ -204,7 +201,6 @@ h1 p {
   border-radius: 5px;
 }
 
-
 .main-more-button i,
 .main-less-button i {
   margin-left: 15px;
@@ -248,28 +244,28 @@ footer {
     justify-content: center;
     align-items: center;
   }
-  
+
   .top-bar-list-container {
     width: 80%;
     display: flex;
     justify-content: end;
     align-items: center;
   }
-  
+
   .top-bar-list {
     list-style-type: none;
     margin-bottom: 0;
   }
-  
+
   .top-bar-item {
     display: inline;
   }
-  
+
   .top-bar-item a {
     text-decoration: none;
     color: #d3d3d3;
     margin: 0 10px;
-    font-size: .8em;
+    font-size: 0.8em;
   }
 
   .logo {
@@ -279,12 +275,12 @@ footer {
   .menu-item a {
     color: #ec5242;
   }
-  
+
   .last-nav-item a {
     color: #ec5242;
     border: 5px solid #ec5242;
   }
-  
+
   .heading {
     display: flex;
     justify-content: center;
@@ -295,7 +291,9 @@ footer {
     flex-direction: column;
   }
 
-  .heading-1, .heading-2, .heading-box {
+  .heading-1,
+  .heading-2,
+  .heading-box {
     max-width: 70%;
   }
 
@@ -318,7 +316,7 @@ footer {
     margin-left: -10px;
     padding-bottom: 10px;
   }
-  
+
   .program-category p {
     text-align: center;
     margin-left: -50px;
@@ -329,7 +327,7 @@ footer {
     font-weight: 700;
   }
 
-  .program-category-description  {
+  .program-category-description {
     color: #d3d3d3;
     width: 200px;
     margin: auto;
@@ -341,7 +339,7 @@ footer {
     color: #d3d3d3;
     margin-left: -13px;
     margin-right: -10px;
-    text-align: center; 
+    text-align: center;
     font-size: 1em;
   }
 
@@ -414,4 +412,4 @@ footer {
   .menu-item a {
     margin-left: 20px;
   }
-} 
+}

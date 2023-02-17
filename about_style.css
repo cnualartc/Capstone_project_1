@@ -10,7 +10,7 @@
 }
 
 header {
-  background-color: rgb(211, 211, 211, .3);
+  background-color: rgb(211, 211, 211, 0.3);
 }
 
 .hidden {
@@ -276,8 +276,6 @@ h1 p {
   display: none;
 }
 
-
-
 @media (min-width: 768px) {
   .top-bar {
     background-color: #272a31;
@@ -285,7 +283,7 @@ h1 p {
     justify-content: center;
     align-items: center;
   }
-  
+
   .top-bar-list-container {
     width: 80%;
     display: flex;
@@ -306,7 +304,7 @@ h1 p {
     text-decoration: none;
     color: #d3d3d3;
     margin: 0 10px;
-    font-size: .8em;
+    font-size: 0.8em;
   }
 
   .logo {
@@ -358,12 +356,12 @@ h1 p {
   }
 
   .negative {
-  display: block;
-}
+    display: block;
+  }
 
-.positive {
-  display: none;
-}
+  .positive {
+    display: none;
+  }
 }
 
 @media (min-width: 992px) {
