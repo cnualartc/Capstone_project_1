@@ -59,8 +59,8 @@ To get a local copy up and running, follow these steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can view this project live using: https://cnualartc.github.io/My_Portfolio/
-Project presentation: https://www.loom.com/share/d48f63d493544b2fb8dca407dc65a029
+You can view this project live using: https://github.com/cnualartc/Capstone_project_1
+Project presentation: 
 
 
 ## 👥 Authors <a name="authors"></a>
@@ -81,9 +81,9 @@ Project presentation: https://www.loom.com/share/d48f63d493544b2fb8dca407dc65a02
 
 
 
-- [Setup project repo] **[new_feature_1]**
+<!-- - [Setup project repo] **[new_feature_1]**
 - [Create header and headline] **[new_feature_2]**
-- [style header and headline] **[new_feature_3]**
+- [style header and headline] **[new_feature_3]** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +93,7 @@ Project presentation: https://www.loom.com/share/d48f63d493544b2fb8dca407dc65a02
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page. https://github.com/cnualartc/My_Portfolio/issues
+Feel free to check the issues page. https://github.com/cnualartc/Capstone_project_1/issues
 
 
 ## ⭐️ Show your support <a name="support"></a>
