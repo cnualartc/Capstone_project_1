@@ -9,7 +9,7 @@ First Microverse capstone project (module 1-block 5)
   <img src="./images/my_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>My Portfolio README</b></h3>
+  <h3><b>Capstone Project 1 README</b></h3>
 
 </div>
 
@@ -28,14 +28,17 @@ First Microverse capstone project (module 1-block 5)
 
 
 
-# 📖 Hello World <a name="about-project"></a>
+# 📖 Capstone Project 1 <a name="about-project"></a>
 
-**Hello World** is a project showcases my work as a web developer
+**Capstone Project 1** is a project that showcases my abilities to build a website with HTML, CSS and JS
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- html
-- css
+- HTML
+- BOOTSTRAP
+- CSS
+- JS
+
 
 
 ### Key Features <a name="key-features"></a>
