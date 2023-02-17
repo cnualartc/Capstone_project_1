@@ -16,10 +16,10 @@ function hideBands() {
   });
 }
 
-moreButton.addEventListener('click', (e) => {
+moreButton.addEventListener('click', () => {
   showBands();
 });
 
-lessButton.addEventListener('click', (e) => {
+lessButton.addEventListener('click', () => {
   hideBands();
 });
