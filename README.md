@@ -60,7 +60,7 @@ To get a local copy up and running, follow these steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 You can view this project live using: https://github.com/cnualartc/Capstone_project_1
-Project presentation: 
+Project presentation: https://www.loom.com/share/8fc6adf91ba74a2eb8602840b8fa6b53
 
 
 ## 👥 Authors <a name="authors"></a>
