@@ -27,7 +27,6 @@ First Microverse capstone project (module 1-block 5)
 - [📝 License](#license)
 
 
-
 # 📖 Capstone Project 1 <a name="about-project"></a>
 
 **Capstone Project 1** is a project that showcases my abilities to build a website with HTML, CSS and JS
@@ -38,7 +37,6 @@ First Microverse capstone project (module 1-block 5)
 - BOOTSTRAP
 - CSS
 - JS
-
 
 
 ### Key Features <a name="key-features"></a>
@@ -56,7 +54,7 @@ To get a local copy up and running, follow these steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can view this project live using: https://github.com/cnualartc/Capstone_project_1
+You can view this project live using: https://cnualartc.github.io/Capstone_project_1/
 Project presentation: https://www.loom.com/share/8fc6adf91ba74a2eb8602840b8fa6b53
 
 
@@ -73,9 +71,7 @@ Project presentation: https://www.loom.com/share/8fc6adf91ba74a2eb8602840b8fa6b5
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 
 <!-- - [Setup project repo] **[new_feature_1]**
@@ -83,7 +79,6 @@ Project presentation: https://www.loom.com/share/8fc6adf91ba74a2eb8602840b8fa6b5
 - [style header and headline] **[new_feature_3]** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -96,11 +91,9 @@ Feel free to check the issues page. https://github.com/cnualartc/Capstone_projec
 ## ⭐️ Show your support <a name="support"></a>
 
 
-
 If you like this project please follow me on github and contribute to the projects you are interested in.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
@@ -108,12 +101,7 @@ If you like this project please follow me on github and contribute to the projec
 Special thanks to Cindy Shin, creator of the original design.
 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 
 ## 📝 License <a name="license"></a>
 
