@@ -47,9 +47,6 @@ First Microverse capstone project (module 1-block 5)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 The user will be able to see the projects I have created and collaborated in through-out my career as a web developer.
