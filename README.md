@@ -6,8 +6,6 @@ First Microverse capstone project (module 1-block 5)
 
 
 <div align="center">
-  <img src="./images/my_logo" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Capstone Project 1 README</b></h3>
 
